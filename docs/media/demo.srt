@@ -1,0 +1,39 @@
+1
+00:00:00,500 --> 00:00:04,740
+Your personal training gym runs on five apps. And none of them talk to each other.
+
+2
+00:00:05,700 --> 00:00:09,100
+So we built one screen that prices every problem in dollars.
+
+3
+00:00:09,700 --> 00:00:14,340
+Handle the biggest one first. One click assigns it, and the meter shows what you've recovered.
+
+4
+00:00:16,400 --> 00:00:19,530
+Here's the whole client journey, from first consult to renewal.
+
+5
+00:00:20,400 --> 00:00:26,000
+Every ad is traced to paying clients, not just leads. Cost per client, payback, and a clear keep or cut call.
+
+6
+00:00:29,900 --> 00:00:34,950
+Clients who stop booking sessions get flagged before they cancel, so their trainer calls them this week.
+
+7
+00:00:42,400 --> 00:00:46,380
+See every trainer, their revenue against their pay, and who's on track for a bonus.
+
+8
+00:00:50,800 --> 00:00:53,230
+Switch locations, and every number updates.
+
+9
+00:00:56,000 --> 00:00:58,540
+And every problem becomes a task, with an owner.
+
+10
+00:01:00,200 --> 00:01:03,570
+Built for personal training gyms. Want this for yours? Let's talk.
